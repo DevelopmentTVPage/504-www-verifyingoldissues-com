@@ -1,0 +1,19 @@
+{
+    "title": "Channel 4",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1517266577",
+    "date_modified": "1517266577",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "139424371",
+    "loginId": "1759124",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-4",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
