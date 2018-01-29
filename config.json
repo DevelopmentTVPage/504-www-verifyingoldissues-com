@@ -1,0 +1,15 @@
+{
+    "title": "3.0 lt",
+    "baseURL": "https:\/\/www.verifyingoldissues.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759124",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "verifyingoldissues.com"
+    }
+}
